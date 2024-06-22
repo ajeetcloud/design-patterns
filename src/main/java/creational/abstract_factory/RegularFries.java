@@ -4,6 +4,6 @@ public class RegularFries implements Fries {
 
     @Override
     public void pack() {
-        System.out.println("Packing regular fries");
+        System.out.println("Adding regular fries");
     }
 }
