@@ -1,4 +1,6 @@
-package creational.abstract_factory;
+package creational.abstract_factory.impl;
+
+import creational.abstract_factory.Burger;
 
 public class VegBurger implements Burger {
     @Override
